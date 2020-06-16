@@ -9,9 +9,9 @@
         ],
         "version": "1.0.0",
         "orientation": "portrait",
-        "icon": "./assets/feedback.png",
+        "icon": "./assets/icon-logo.png",
         "splash": {
-            "image": "./assets/feedback.png",
+            "image": "./assets/splash-logo.png",
             "resizeMode": "contain",
             "backgroundColor": "#ffffff"
         },
